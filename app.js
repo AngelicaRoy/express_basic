@@ -12,6 +12,6 @@ app.get('/', (req, res) =>{
 
 //Respondiendo texto
 //localhost:3000/launch
-app.get('/lauchx', (req, res) => {
+app.get('/launchx', (req, res) => {
     res.send('Bienvenidos a lunchx')
 })
