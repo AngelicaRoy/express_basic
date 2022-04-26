@@ -16,7 +16,7 @@ app.listen(port, () => {
 })
 
 //Respondiendo texto
-//localhost:3000/launch
+//localhost:3000/launchx
 app.get('/launchx', (req, res) => {
     res.send('Bienvenidos a lunchx')
 })
